@@ -256,7 +256,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active>a,
 .mobile-nav li:hover>a {
-    color: #56e7d0;
+    color: #43e7ff;
     text-decoration: none;
 }
 
@@ -1069,7 +1069,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-    color: #56e7d0;
+    color: #43e7ff;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -1292,7 +1292,7 @@ section {
 
 .contact .info i {
     font-size: 48px;
-    color: #56e7d0;
+    color: #43e7ff;
     margin-bottom: 15px;
 }
 
@@ -1523,7 +1523,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
     padding-right: 2px;
-    color: #56e7d0;
+    color: #43e7ff;
     font-size: 18px;
     line-height: 1;
 }
