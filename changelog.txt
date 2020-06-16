@@ -1,16 +1,23 @@
-Version: 2.1.0
-  - Updated Bootstrap to version 4.5.0
-  - Updated the PHP Email Form library to version 2.0 with reCaptcha support
-  - Added portfolio-details.html template
-  - Aded inner-page.html tempalte
-  - Added navigation active state on scroll
-  - Updated all the third party vendor libraries to their latest versions
-  - Other small fixes and improvements
-  
-Version: 2.0.0
-  - The template was rebuilt from scratch with the latest Bootstrap version (4.4.1)
-  - Added SMPTP support for the contact form script (Pro)
-  - Added NodeJS NPM Development version (Pro unlimited & Membership members)
-  
-Version: 1.0.0
-- Initial Release
+Date: 02 November 2019
+Artist: Fka Mash
+Event name: House & Friends
+Location and name of venue: Kefu's Jazz/Deep house lounge 
+Proposed lineup: 
+FKA Mash 
+Judy Jay 
+Bravo Deep 
+Cya C Deep 
+Acojazz 
+King Gideon 
+Ta Liwa 
+Capacity of venue and no of ppl: +/- 120
+Ticket sales price: 
+Phase one R40
+Phase two R60
+At the door R80
+Is there a sponsor involved: No
+Set time and duration: (2hours) 23H30 - 01H30 
+Promoter’s full name and address: Liwa Dladloti - 4 Ngangane St, Ilitha Park, Khayelitsha
+Promoter’s contact number: 067 406 2277 (calls) / 079 286 7400 (WhatsApp)
+Fee: 4500 + flights and accom
+Terms: promotor to buy the artist a return flight and supply adequate accomodation for night of show.
